@@ -132,4 +132,7 @@ main {
   .head {
     flex-direction: column;
   }
+  .footer{
+    padding-top: 10rem;
+  }
 }
