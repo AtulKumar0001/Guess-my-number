@@ -95,6 +95,13 @@ main {
   background-color: #ccc;
   box-shadow: 1px 1px 7px 1px lightblue;
 }
+.footer{
+  text-align: center;
+  font-size: 1rem;
+  padding-top:15rem;
+  
+}
+
 
 @media (max-width: 640px) {
   main {
